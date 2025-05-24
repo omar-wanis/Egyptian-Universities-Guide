@@ -9,5 +9,5 @@ High school graduates often face significant challenges when deciding on a unive
 ## User personas:
 - General secondary education schools,  Al-Azhar Secondary Education schools, international schools graduates, Equivalency students from abroad.
 ##
-- This is the front-end part of the project.
+- This is the front-end part of the project
 
